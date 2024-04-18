@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.amir1382.todoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +32,12 @@
         "projectId": "f78a2808-2090-458c-86aa-6aaf754b052b"
       }
     },
-    "owner": "amir1382"
+    "owner": "amir1382",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f78a2808-2090-458c-86aa-6aaf754b052b"
+    }
   }
 }
